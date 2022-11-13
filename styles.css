@@ -15,18 +15,18 @@ body {
 
 .about {
     border-width: 10px;
-    border-color:palevioletred;
+    background-color: lightgray;
     color: black;
 }
 
 .CS {
     border-width: 10px;
-    border-color:palevioletred;
+    background-color: darkgray;
     color: black;
 }
 
 .writing {
     border-width: 10px;
-    border-color:palevioletred;
+    background-color: darkgray;
     color: black;
 }
