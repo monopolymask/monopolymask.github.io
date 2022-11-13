@@ -13,20 +13,8 @@ body {
     text-align: center;
 }
 
-.about {
+.about, .CS, .writing {
     border-width: 10px;
     background-color: lightgray;
-    color: black;
-}
-
-.CS {
-    border-width: 10px;
-    background-color: darkgray;
-    color: black;
-}
-
-.writing {
-    border-width: 10px;
-    background-color: darkgray;
     color: black;
 }
