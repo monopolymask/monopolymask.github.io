@@ -12,3 +12,21 @@ body {
     color: gray;
     text-align: center;
 }
+
+.about {
+    border-width: 10px;
+    border-color:palevioletred;
+    color: black;
+}
+
+.CS {
+    border-width: 10px;
+    border-color:palevioletred;
+    color: black;
+}
+
+.writing {
+    border-width: 10px;
+    border-color:palevioletred;
+    color: black;
+}
